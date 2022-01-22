@@ -1,9 +1,9 @@
 
-  # aaa
+  # Readme Generator
 
 ## Description 
 
-aaaaa
+This read me you are reading right now was creaded using the command line in Virtual Studio Code. Follow the promts and add your name, project naem, the installation, pick th elanguages used, insert the instructions, provide credit to the desighner, and add the proper license. Then you this amazing program generates a professional readme like the one you are reading right now.... you are welcome. 
 
 
 ## Table of Contents (Optional)
@@ -16,25 +16,19 @@ aaaaa
 
 ## Installation
 
-aa aaa
+First I dowloaded the sterted code from GitHub repository potential-enegma. Second I installed inquirer. Third I created an array to promt user input. Forth I created a function to generate the readme.md file.
 
 ## Laguages used 
 
-JavaScript
+JavaScript,Node
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-'md
-![alt text](assets/images/screenshot.png)'
-
+![alt text](assets/images/ScreenShot.png)
 
 ## Credits
 
-Made by A
+Made by Austin
 
 
 ## License
