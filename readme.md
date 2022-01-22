@@ -24,7 +24,7 @@ JavaScript,Node
 
 ## Usage 
 
-![alt text](assets/screenshot.png)'
+![alt text](./assets/ScreenShot.png)
 
 
 ## Credits
