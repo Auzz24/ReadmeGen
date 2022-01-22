@@ -1,9 +1,9 @@
 
-  # Readme Generator
+  # ReadmeGen
 
 ## Description 
 
-This read me you are reading right now was creaded using the command line in Virtual Studio Code. Follow the promts and add your name, project naem, the installation, pick th elanguages used, insert the instructions, provide credit to the desighner, and add the proper license. Then you this amazing program generates a professional readme like the one you are reading right now.... you are welcome. 
+This readme.md you are reading right now was created using the command line in Virtual Studio Code. Follow the prompts and add your name, project name, the installation, pick the languages used, insert the instructions, provide credit to the designer, and add the proper license. Then this amazing program generates a professional readme like the one you are reading right now.... you are welcome.
 
 
 ## Table of Contents (Optional)
@@ -16,7 +16,7 @@ This read me you are reading right now was creaded using the command line in Vir
 
 ## Installation
 
-First I dowloaded the sterted code from GitHub repository potential-enegma. Second I installed inquirer. Third I created an array to promt user input. Forth I created a function to generate the readme.md file.
+First, I downloaded the starter code from GitHub repository potential-enigma. Second, I installed inquirer. Third, I created an array to prompt user input. Forth, I created a function to generate the readme.md file.
 
 ## Laguages used 
 
@@ -24,11 +24,17 @@ JavaScript,Node
 
 ## Usage 
 
-![alt text](assets/images/ScreenShot.png)
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+'md
+![alt text](assets/screenshot.png)'
+
 
 ## Credits
 
-Made by Austin
+Made by Austin Miller
 
 
 ## License
