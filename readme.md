@@ -24,8 +24,9 @@ JavaScript,Node
 
 ## Usage 
 
-![alt text](./assets/ScreenShot.png)
+![alt text](assets/ScreenShot.png)'
 
+![alt text](assets/Readmegen.gif)'
 
 ## Credits
 
